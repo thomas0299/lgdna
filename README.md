@@ -1,18 +1,22 @@
+This repository is associated with the following paper and should be cited accordingly:
+
+> **Latent Geometry-Driven Network Automata for Complex Network Dismantling**  
+> Thomas Adler, Marco Grassia, Ziheng Liao, Giuseppe Mangioni, Carlo Vittorio Cannistraci  
+> *The Fourteenth International Conference on Learning Representations (ICLR), 2026*  
+> https://openreview.net/forum?id=yz29QCGVzC
+
+```bibtex
+@inproceedings{
+adler2026latent,
+title={Latent Geometry-Driven Network Automata for Complex Network Dismantling},
+author={Thomas Adler and Marco Grassia and Ziheng Liao and Giuseppe Mangioni and Carlo Vittorio Cannistraci},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=yz29QCGVzC}
+}
+```
+
 # Latent Geometry Driven Network Automata
-
-## Disclaimer
-
-This code is provided **exclusively for the purpose of academic peer review** in connection with the submitted manuscript.  
-It is **not intended for public use, distribution, or reproduction**.
-
-To comply with double-blind review standards:
-- All identifying information (including author names, affiliations, email addresses, and version control history) has been removed.
-- Any external references that could compromise anonymity have been omitted or anonymized.
-
-Reviewers are kindly asked to respect the confidentiality and anonymity of this submission, and to refrain from redistributing, citing, or using this material outside the review process.
-
-A full, public version of the code will be made available upon acceptance of the manuscript.
-
 
 ## Usage
 There are two versions of the code, one for CPU and one for GPU.

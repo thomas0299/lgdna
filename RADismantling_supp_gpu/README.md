@@ -1,20 +1,6 @@
 # Repulsion Attraction Dismantling
 This code aims to dismantle networks using the Repulsion Attraction rule using GPU.
 
-## Disclaimer
-
-This code is provided **exclusively for the purpose of academic peer review** in connection with the submitted manuscript.  
-It is **not intended for public use, distribution, or reproduction**.
-
-To comply with double-blind review standards:
-- All identifying information (including author names, affiliations, email addresses, and version control history) has been removed.
-- Any external references that could compromise anonymity have been omitted or anonymized.
-
-Reviewers are kindly asked to respect the confidentiality and anonymity of this submission, and to refrain from redistributing, citing, or using this material outside the review process.
-
-A full, public version of the code will be made available upon acceptance of the manuscript.
-
-
 ## Setting up the environment
 
 `cd RAdismantling_supp_gpu`
