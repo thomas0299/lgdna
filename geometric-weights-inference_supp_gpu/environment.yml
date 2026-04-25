@@ -1,0 +1,20 @@
+name: gwi-gpu
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+  - rapidsai
+  - nvidia
+dependencies:
+  - python==3.10
+  - graph-tool=2.59
+  - mypy=1.9.0
+  - isort=5.13.2
+  - black=24.3.0
+  - flake8=7.0.0
+  - pytest=8.1.1
+  - tqdm=4.66.2
+  - pandas=2.2.2
+  - pytorch=2.1.2
+  - cudatoolkit=11.7
+  - rapids=24.10

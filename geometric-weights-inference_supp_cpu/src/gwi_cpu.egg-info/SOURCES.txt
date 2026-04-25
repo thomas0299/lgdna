@@ -1,0 +1,13 @@
+README.md
+setup.cfg
+setup.py
+src/gwi/__init__.py
+src/gwi/geometric_weights_inference.py
+src/gwi/graph_utils.py
+src/gwi/network_model.py
+src/gwi/utils.py
+src/gwi/weightings.py
+src/gwi_cpu.egg-info/PKG-INFO
+src/gwi_cpu.egg-info/SOURCES.txt
+src/gwi_cpu.egg-info/dependency_links.txt
+src/gwi_cpu.egg-info/top_level.txt

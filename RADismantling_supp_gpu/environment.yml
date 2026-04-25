@@ -1,0 +1,23 @@
+name: ra-dismantling-gpu
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+  - rapidsai
+  - nvidia
+dependencies:
+- graph-tool=2.59
+- mypy=1.9.0
+- pytest=8.1.1
+- pip=24.0
+- black=24.3.0
+- isort=5.13.2
+- flake8=7.0.0
+- dill=0.3.7
+- parse=1.19.1
+- tqdm=4.66.2
+- pytorch=2.1.2
+- cudatoolkit=11.7
+- rapids=24.10
+- scipy==1.14.1
+- cupy=13.3.0
